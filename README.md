@@ -6,7 +6,7 @@
 
 Here are some great ideas for new FOSTIVE tools that we haven't had time to implement!
 
-We'd love you help either:
+We'd love your help either:
 
 * Adding more ideas to the list
 * Implementing one of the ideas
