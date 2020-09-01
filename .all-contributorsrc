@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "crcastle",
+      "name": "Chris Castle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/275734?v=4",
+      "profile": "https://crc.io",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "unimplemented-ideas",
+  "projectOwner": "fostive",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
