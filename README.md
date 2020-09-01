@@ -13,17 +13,19 @@ We'd love you help either:
 
 In either case, [create a Pull Request](https://github.com/fostive/unimplemented-ideas/pulls) in this repo that either adds an idea to the list or puts your name next to an idea you want to implement.
 
-## Ideas List
+## 📜 Ideas List
 
-
+Idea name                                    | Added by  | Being worked on by | Notes
+---------------------------------------------|-----------|--------------------|---------------------------------------------------------------------------------------------------------------
+Real-time talk ratings and reviews           | @justjenu |                    | Presenter sees a dashboard of ratings and reviews
+Giveaway utils                               | @justjenu |                    | Have a fun way to do giveaways (spin the wheel, name randomizer, etc)
+Twilio's hackable pixel art board but vitual | @crcastle |                    | [Twilio blog post](https://www.twilio.com/blog/2017/06/drawing-pixel-art-text-messages-signal-video-wall.html)
 
 ## 🤝 Contributing
 
 We love contributions, small or big, from others!
 
-Please see our [CONTRIBUTING](https://github.com/fostive/.github/blob/main/CONTRIBUTING.md) guidelines. The first thing to do is to discuss the change you wish to make via issue, email, or any other method with the owners of this repository.
-
-Also, review our [code of conduct](https://github.com/fostive/.github/blob/main/CODE_OF_CONDUCT.md). Please adhere to it in all your interactions with this project.
+Please see our [CONTRIBUTING](https://github.com/fostive/.github/blob/main/CONTRIBUTING.md) guidelines. Also, review our [code of conduct](https://github.com/fostive/.github/blob/main/CODE_OF_CONDUCT.md). Please adhere to it in all your interactions with this project.
 
 Thanks goes to these wonderful ✨ people ([emoji key](https://allcontributors.org/docs/en/emoji-key)) for contributing to the project:
 
